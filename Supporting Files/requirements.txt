@@ -47,7 +47,7 @@ pyobjc-framework-SyncServices==2.5.1
 pyobjc-framework-SystemConfiguration==2.5.1
 pyobjc-framework-WebKit==2.5.1
 pytz==2014.4
-requests==2.3.0
+requests==2.20.0
 service-identity==1.0.0
 six==1.6.1
 tendo==0.2.6
