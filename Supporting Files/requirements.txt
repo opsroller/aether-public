@@ -1,5 +1,5 @@
 SQLAlchemy==0.9.4
-Twisted==14.0.0
+Twisted==20.3.0
 cffi==0.8.2
 characteristic==0.1.0
 cryptography==0.4
