@@ -2,7 +2,7 @@ SQLAlchemy==0.9.4
 Twisted==14.0.0
 cffi==0.8.2
 characteristic==0.1.0
-cryptography==0.4
+cryptography==3.2
 miniupnpc==1.9
 pif==0.7
 pyOpenSSL==0.14
