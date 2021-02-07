@@ -5,7 +5,7 @@ characteristic==0.1.0
 cryptography==0.4
 miniupnpc==1.9
 pif==0.7
-pyOpenSSL==0.14
+pyOpenSSL==17.5.0
 pyasn1==0.1.7
 pyasn1-modules==0.0.5
 pycparser==2.10
